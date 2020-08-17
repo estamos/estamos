@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/estamos/estamos)](https://badges.pufler.dev)
+### Hi there, I'm [Evangelos!](https://estamos.github.io) 👋
+
+<h1 align="center">
+  <img alt="Visits Badge" src="https://badges.pufler.dev/visits/estamos/estamos"/>
+</h1>
 
 -   :mortar_board: Undergraduate student of Electrical and Computer Engineering
 
