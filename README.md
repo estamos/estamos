@@ -5,6 +5,9 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evangelosstamos)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evangelosstamos@gmail.com)
 
+![estamos's github stats](https://github-readme-stats.vercel.app/api?username=estamos&show_icons=true)
+
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
