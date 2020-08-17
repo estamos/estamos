@@ -1,9 +1,5 @@
 ### Hi there, I'm [Evangelos!](https://estamos.github.io) 👋
 
-<h1 align="center">
-  <img alt="Visits Badge" src="https://badges.pufler.dev/visits/estamos/estamos"/>
-</h1>
-
 -   :mortar_board: Undergraduate student of Electrical and Computer Engineering
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evangelosstamos)
@@ -37,6 +33,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
+
+<h1 align="center">
+  <img alt="Visits Badge" src="https://badges.pufler.dev/visits/estamos/estamos"/>
+</h1>
 
 <!--
 **estamos/estamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
