@@ -12,8 +12,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estamos&layout=compact" />
 </a>
 
-
-
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -23,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
 
 **Some of the technologies I have worked with**
 
