@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/estamos/estamos)](https://badges.pufler.dev)
 
 -   :mortar_board: Undergraduate student of Electrical and Computer Engineering
 
@@ -11,6 +12,7 @@
 <a href="https://github.com/estamos/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estamos&layout=compact" />
 </a>
+
 
 
 **Languages I have used**
