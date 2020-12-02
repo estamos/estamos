@@ -2,7 +2,7 @@
 
 -   :mortar_board: Undergraduate student of Electrical and Computer Engineering
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evangelosstamos)
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evangelosstamos@gmail.com)
 
 <a href="https://github.com/estamos/github-readme-stats">
