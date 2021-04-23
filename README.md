@@ -28,10 +28,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src=https://github-readme-stats.vercel.app/api/top-langs?username=estamos&layout=compact&theme=dark" width="350"></a>
-</p>
-    
-<p align='center'>
   📫 How to reach me: <a href='mailto:evangelossstamos@gmail.com'>evangelosstamos@gmail.com</a>
 </p>
 
