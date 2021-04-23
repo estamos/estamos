@@ -26,8 +26,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=estamos&show_icons=true&theme=dark" width="350"></a>
 </p>
+
 <p align='center'>
-  <a href="#"><img src=https://github-profile-trophy.vercel.app/?username=estamos&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers"></a>
+  <a href="#"><img src=https://github-readme-stats.vercel.app/api/top-langs?username=estamos&layout=compact&theme=dark" width="350"></a>
 </p>
     
 <p align='center'>
