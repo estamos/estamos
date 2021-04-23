@@ -27,7 +27,10 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=estamos&show_icons=true&theme=dark" width="350"></a>
 </p>
-
+<p align='center'>
+  <a href="#"><img src=https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers"     width="350"></a>
+</p>
+    
 <p align='center'>
   📫 How to reach me: <a href='mailto:evangelossstamos@gmail.com'>evangelosstamos@gmail.com</a>
 </p>
