@@ -14,10 +14,5 @@
 
 <details align='center'>
   <summary>3D rendering of my 2020 GitHub Contributions</summary>
-  
-  https://user-images.githubusercontent.com/23742352/118654398-32aafc80-b7f1-11eb-99a0-d85851b7b66d.mp4
-  
-</details>
-
-
-
+  https://user-images.githubusercontent.com/23742352/118656553-4bb4ad00-b7f3-11eb-8296-fb191cb14abb.mp4
+  </details>
