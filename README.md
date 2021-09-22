@@ -22,10 +22,10 @@
 </p>
 
 <p align='center'>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=estamos&count_private=true&show_icons=true&theme=dark" width="350"></a>
+  <a href="https://github.com/estamos"><img src="https://github-readme-stats.vercel.app/api?username=estamos&count_private=true&show_icons=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/estamos/estamos"></a>
+  <a href="https://github.com/estamos"><img src="https://badges.pufler.dev/visits/estamos/estamos"></a>
 </p>
 
