@@ -34,7 +34,7 @@
     <br>
     <a href="https://www.worldcommunitygrid.org/research/mcm1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mcm1_4_72.png" height="50" width="50"/></a> 
     <a href="https://www.worldcommunitygrid.org/research/opn1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/opn1_3_72.png" height="50" width="50"/></a> 
-    <a href="https://www.worldcommunitygrid.org/research/mip11/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mip1_2_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/mip1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mip1_2_72.png" height="50" width="50"/></a> 
     <a href="https://www.worldcommunitygrid.org/research/zika/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/zika_2_72.png" height="50" width="50"/></a> 
     <a href="https://www.worldcommunitygrid.org/research/fahb/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/fahb_1_72.png" height="50" width="50"/></a>  
     <a href="https://www.worldcommunitygrid.org/research/scc1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/scc1_0_72.png" height="50" width="50"/></a> 
