@@ -32,13 +32,17 @@
     <br>
     &#8226; Badges earned 
     <br>
-    <a href="https://www.worldcommunitygrid.org/research/mcm1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mcm1_4_72.png" height="50" width="50"/></a> 
-    <a href="https://www.worldcommunitygrid.org/research/opn1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/opn1_3_72.png" height="50" width="50"/></a> 
-    <a href="https://www.worldcommunitygrid.org/research/mip1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mip1_2_72.png" height="50" width="50"/></a> 
-    <a href="https://www.worldcommunitygrid.org/research/zika/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/zika_2_72.png" height="50" width="50"/></a> 
-    <a href="https://www.worldcommunitygrid.org/research/fahb/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/fahb_1_72.png" height="50" width="50"/></a>  
-    <a href="https://www.worldcommunitygrid.org/research/scc1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/scc1_0_72.png" height="50" width="50"/></a> 
-    <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><img src="https://www.worldcommunitygrid.org/images/pb/9999_0_72.png" height="50" width="50"/></a>  
+    <a href="https://www.worldcommunitygrid.org/research/mcm1/overview.s"><img alt="Mapping Cancer Markers" src="https://www.worldcommunitygrid.org/images/pb/mcm1_4_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/opn1/overview.s"><img alt="OpenPandemics - COVID-19" src="https://www.worldcommunitygrid.org/images/pb/opn1_3_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/mip1/overview.s"><img alt="Microbiome Immunity Project
+" src="https://www.worldcommunitygrid.org/images/pb/mip1_2_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/zika/overview.s"><img alt="OpenZika
+" src="https://www.worldcommunitygrid.org/images/pb/zika_2_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/fahb/overview.s"><img alt="FightAIDS@Home - Phase 2
+" src="https://www.worldcommunitygrid.org/images/pb/fahb_1_72.png" height="50" width="50"/></a>  
+    <a href="https://www.worldcommunitygrid.org/research/scc1/overview.s"><img alt="Smash Childhood Cancer
+" src="https://www.worldcommunitygrid.org/images/pb/scc1_0_72.png" height="50" width="50"/></a> 
+    <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><img alt="Recruiting" src="https://www.worldcommunitygrid.org/images/pb/9999_0_72.png" height="50" width="50"/></a>  
   </p>
 </details>
 
