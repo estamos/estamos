@@ -25,6 +25,23 @@
   <a href="https://github.com/estamos"><img src="https://github-readme-stats.vercel.app/api?username=estamos&count_private=true&show_icons=true&theme=dark" width="350"></a>
 </p>
 
+<details align='center'>
+  <summary>Proud Member of <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><b>World Community Grid</b></a> since 2018 | Volunteering</summary>
+  <p align='center'>
+    &#8226; April 11, 2018 - Now | <b>> 2 years of Runtime</b> | <b>> 7.7k Results returned</b> | <b>> 4.8m Points earned</b>
+    <br>
+    &#8226; Badges earned 
+    <br>
+    <a href="https://www.worldcommunitygrid.org/research/mcm1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mcm1_4_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/opn1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/opn1_3_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/mip11/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/mip1_2_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/zika/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/zika_2_72.png" height="50" width="50"/></a> 
+    <a href="https://www.worldcommunitygrid.org/research/fahb/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/fahb_1_72.png" height="50" width="50"/></a>  
+    <a href="https://www.worldcommunitygrid.org/research/scc1/overview.s"><img src="https://www.worldcommunitygrid.org/images/pb/scc1_0_72.png" height="50" width="50"/></a> 
+    <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><img src="https://www.worldcommunitygrid.org/images/pb/9999_0_72.png" height="50" width="50"/></a>  
+  </p>
+</details>
+
 <p align='center'>
   <a href="https://github.com/estamos"><img src="https://badges.pufler.dev/visits/estamos/estamos"></a>
 </p>
