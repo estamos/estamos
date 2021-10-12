@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/estamos"><img src="https://github-readme-stats.vercel.app/api?username=estamos&count_private=true&show_icons=true&theme=dark" width="350"></a>
+  <a href="https://github.com/estamos"><img src="https://github-readme-stats.vercel.app/api?username=estamos&count_private=true&show_icons=true&theme=dark" width="450"></a>
 </p>
 
 <details align='center'>
