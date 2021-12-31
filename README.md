@@ -1,3 +1,10 @@
+<p align='center'>
+  <b> Bye bye 2021. | Best wishes for a healthy, creative and peacfull 2022 ! ❣️🥳</b>
+</p>
+<p align='center'>
+  <a href="https://github.com/estamos"><img src="https://user-images.githubusercontent.com/23742352/147834230-031a8562-16b7-4131-84a7-ea8b6e30dd98.gif"></a>
+</p>
+
 <details align='center'>
   <summary><b>MEng Electrical & Computer Engineering</b> 2021 | UTH GR</summary>
   <p align='center'>
