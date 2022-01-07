@@ -14,11 +14,19 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<details align='center'>
+   <summary>3D rendering of my 2021 GitHub Contributions</summary>
+
+   <a href="https://github.com/estamos?tab=overview&from=2021-12-01&to=2021-12-31"><img src="https://user-images.githubusercontent.com/23742352/148546348-222431e2-741d-4936-93e5-33d42bdf257d.gif"/></a>
+
+</details>
+ 
 <p align='center'>
   <a href="https://github.com/estamos"><img src="https://github-readme-stats.vercel.app/api?username=estamos&count_private=true&show_icons=true&theme=dark" width="450"></a>
 </p>
 
 <details align='center'>
+
   <summary>Proud Member of <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><b>World Community Grid</b></a> since 2018 | Volunteering</summary>
   <p align='center'>
     &#8226; April 11, 2018 - Now | <b>> 2 years of Runtime</b> | <b>> 7.7k Results returned</b> | <b>> 4.8m Points earned</b>
