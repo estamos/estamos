@@ -29,7 +29,7 @@
 
    <summary>Proud Member of <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><b>World Community Grid</b></a> since 2018 | Volunteering</summary>
    <p align='center'>
-     &#8226; April 11, 2018 - Now | <b>> 2 years of Runtime</b> | <b>> 7.7k Results returned</b> | <b>> 4.8m Points earned</b>
+     &#8226; <b>April 11, 2018 - Now | > 2 years of Runtime</b> | <b>> 7.8k Results returned</b> | <b>> 4.9m Points earned</b>
      <br>
      &#8226; Badges earned 
      <br>
@@ -43,6 +43,12 @@
  " src="https://www.worldcommunitygrid.org/images/pb/fahb_1_72.png" height="50" width="50"/></a>  
      <a href="https://www.worldcommunitygrid.org/research/scc1/overview.s"><img alt="Smash Childhood Cancer
  " src="https://www.worldcommunitygrid.org/images/pb/scc1_0_72.png" height="50" width="50"/></a> 
-     <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><img alt="Recruiting" src="https://www.worldcommunitygrid.org/images/pb/9999_0_72.png" height="50" width="50"/></a>  
+     <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><img alt="Recruiting" src="https://www.worldcommunitygrid.org/images/pb/9999_0_72.png" height="50" width="50"/></a>
    </p>
+   As a World Community Grid volunteer, your device does research calculations when it has spare power. With your help, scientists can identify the most important results to study in the lab, bringing them one step closer to discoveries that save lives and address global problems.
  </details>
+ 
+ <p align='center'>
+     <b>You can join World Community Grid by clicking <a href="https://join.worldcommunitygrid.org?recruiterId=1066193"><b>here</b></a>.</b>
+ </p>
+ 
