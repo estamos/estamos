@@ -16,6 +16,12 @@
      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
    </a>
 </p>
+
+<p align='center'>
+   <a href="https://linkedin.com/in/evangelosstamos">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+   </a>
+</p>
  
  <p align='center'>
    <a href="https://www.buymeacoffee.com/estamos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
