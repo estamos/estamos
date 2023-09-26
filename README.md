@@ -1,4 +1,10 @@
 <details align='center'>
+   <summary><b>MSc Translational Engineering in Health and Medicine</b> 2023 | National Technical University of Athens</summary>
+   <p align='center'>
+   </p>
+ </details>
+
+<details align='center'>
    <summary><b>MEng Electrical & Computer Engineering</b> 2021 | UTH GR</summary>
    <p align='center'>
      &#8226; September 2016 - September 2021 | 5 years studies | 300 ECTS
@@ -9,9 +15,6 @@
  </details>
 
 <p align='center'>
-   <a href="https://twitter.com/evangelosstamos">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-   </a>
    <a href="https://stackoverflow.com/users/7264843/estamos">
      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
    </a>
